@@ -1,0 +1,11 @@
+{
+  "author": "andybin",
+  "name": "censorify-andy",
+  "version": "0.0.1",
+  "description": "my first node module",
+  "main": "censortext",
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
